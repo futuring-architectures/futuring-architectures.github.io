@@ -7,3 +7,7 @@ To view a copy of the license, visit https://creativecommons.org/licenses/by-sa/
 
 ## Attributions
 Appropriate credit as per Creative Commons licenses.
+
+| Work                                                 | License      | Changes
+|:-----------------------------------------------------|:-------------|:-
+| [Photo][ph] by [Ian Keefe][cg]                      | [Unsplash]    | Blurred

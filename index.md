@@ -16,8 +16,8 @@ Step by step and day by day.
 
 ## First Steps
 
-Take a few minutes to read up on the [Framework]{:.heading.flip-title} and the challenges it addresses. 
-You can also dive into the action right away and pick up on any one of these challenges:
+📖 Take a few minutes to read up on the [Framework]{:.heading.flip-title}, the components it provides and the process of applying these. 
+You can also dive into the action right away and pick up on one of the components directly:
  
 * [Reveal]{:.heading.flip-title} --- the ecosystem to design for
 * [Position]{:.heading.flip-title} --- your organisation in its ecosystem
@@ -29,14 +29,13 @@ You can also dive into the action right away and pick up on any one of these cha
 [position]: https://position.futuring-architectures.com/
 [organise]: https://organise.futuring-architectures.com/
 
-## Next Steps
+## Getting Real
 
-FAST puts ecosystem innovation and platform design in your hands. 
-[Download] FAST, set up high-energy design sessions and get platforms embedded in your organisation --- large or small. 
-Batteries included; just add a a bit of elbow grease.   
+[Download]  FAST and set up a first high-energy, collaborative design session. Each component comes with full instructions, end-to-end examples and a practitioner's manual.
+🔌 Batteries are included; just add a bit of elbow grease.   
 
 You're most welcome to contribute to the framework. 
-The FAST [Trello board] is open to your suggestions, comments and experiences. Meet us on [Github] to help fix spelling and grammar errors, or help clarify and extend sections.
+The FAST [Trello board] is open to your suggestions, comments and experiences. And join us on [Github] to help fix spelling and grammar errors, or help clarify and extend sections.
 
 [download]: https://www.f-a.link/
 [trello board]: https://f-a.link/trello

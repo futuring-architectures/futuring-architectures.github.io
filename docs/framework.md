@@ -6,7 +6,9 @@ hide_description: true
 permalink: /docs/
 ---
 
-Ecosystem innovation has all the makings of a [wicked problem](https://en.wikipedia.org/wiki/Wicked_problem). FAST draws from Design Thinking as a collaborative way of coping with such problems. It combines immersion in an unqiue situation with building shared understanding and prototyping solutions. This combination gives way to the three components of FAST:
+Ecosystem innovation has all the makings of a [wicked problem](https://en.wikipedia.org/wiki/Wicked_problem). 
+FAST draws from Design Thinking as a collaborative way of coping with such problems. *Thinking as a designer* implies immersion in a situation, building shared understanding and prototyping solutions. 
+This combination gives way to the three components of FAST:
 
 ![The FAST framework](../assets/img/docs/fast-framework-tiny.png){:data-width="600" data-height="398"}
 

@@ -52,8 +52,8 @@ menu:
     url:      /docs/
   - title:    Resources
     url:      https://www.f-a.link/       
-  - title:    About
-    url:      /about/
+  - title:    Contact
+    url:      mailto:hello@futuring-architectures.com
 
 
 # Add links to the footer.

@@ -29,7 +29,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  Futuring Architectures.
+  Futuring Architectures
 
 # A list of keywords for your blog
 keywords:              [platform, ecosystem, design, innovation, framework, strategy]
@@ -48,14 +48,13 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Blog
-    url:               /blog/
-  - title:             Projects
-    url:               /projects/
-  - title:             Résumé*
-    url:               /resume/
-  - title:             Documentation
-    url:               /docs/
+  - title:    Framework
+    url:      /docs/
+  - title:    Resources
+    url:      https://www.f-a.link/       
+  - title:    About
+    url:      /about/
+
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -66,7 +65,7 @@ menu:
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2020. All rights reserved.
+copyright:             Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 # Format of the permalinks
 permalink:             /blog/:categories/:year-:month-:day-:title/

@@ -14,7 +14,7 @@ These for sure help in understanding why and what:
 in FAST you'll find *how* to frame, design and test platforms.
 Step by step and day by day.
 
-## Getting "Acquinted"
+## Getting Acquainted
 
 📖 Take a few minutes to read up on the [Framework]{:.heading.flip-title}, the components it provides and the process of applying these. 
 You can also dive into the action right away and pick up on one of the components directly:

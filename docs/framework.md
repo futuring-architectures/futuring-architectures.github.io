@@ -25,9 +25,12 @@ These are not mere steps or phases: they are *components* in their own right. Ea
 
 ## Infinite Iteration
 
-FAST is infinitely iterative. 
-From exploring a fuzzy hunch of opportunity, to running a viable platform organisation and back to exploring. 🔄 Round and round and round. It captures the deliberately repeating behaviours of organisations responding to ecosystem dynamics:
+FAST is infinitely iterative.
+It captures the deliberately repeating behaviours of organisations responding to ecosystem dynamics. 
+From exploring a fuzzy hunch of opportunity, to running a viable platform organisation and back to exploring. 🔄 Round and round and round:
 
 ![The FAST framework](../assets/img/docs/fast-process-tiny.png){:data-width="600" data-height="398"}
 
-Revealing the ecosystem *frames* the organisation's future position. This position challenges the existing organisation to adapt and learn from new, revealed versions of the ecosystem. 🔄 Round and round and round. 
+Revealing the ecosystem *frames* the organisation's future position. This position challenges the existing organisation to adapt and learn from new, to be revealed versions of the ecosystem. 
+
+🔄 Round and round and round. 

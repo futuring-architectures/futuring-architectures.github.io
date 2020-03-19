@@ -47,4 +47,4 @@ The FAST [Trello board] is open to your suggestions, comments and experiences. A
 **F**uturing **A**rchitectures for **S**ustaining **T**ransitions.
 
 This emphasises the strategic intent and infinitely iterative nature of the framework. 
-It also works as a convenient adjective in many situations 🤭.
+🤭 It also works as a convenient adjective in many situations.

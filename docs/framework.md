@@ -17,11 +17,22 @@ This combination gives way to the three components of FAST:
 * [Organise]{:.heading.flip-title} for the minimum viable platform experience. Deconstruct the platform model into enough interventions to validate the organisation's position in the ecosystem.
 {:.related-posts.faded}
 
-These are not mere steps or phases: they are *components* in their own right. Each is wholly complementary and sets clear boundaries to the others. Not even trying to atom-smash them into a single (convoluted, confused) model is a discerning aspect of the framework. 
-
 [reveal]: https://reveal.futuring-architectures.com/
 [position]: https://position.futuring-architectures.com/
 [organise]: https://organise.futuring-architectures.com/
+
+These are not mere steps or phases: they are *components* in their own right. Each is wholly complementary and sets clear boundaries to the others. 
+This also allows them to leverage different and well-established disciplines: 
+
+* [Strategic Design] to reveal (latent resources and capabilities, and external trends and forces),
+* [Service Design] to position (a perspective with qualitative research and ideation techniques),
+* [Customer Development] to organise (solutions in search of a repeatable and scalable business).
+
+[Strategic Design]: https://en.wikipedia.org/wiki/Strategic_design
+[Service Design]: https://en.wikipedia.org/wiki/Service_design
+[Customer Development]: https://en.wikipedia.org/wiki/Customer_development
+
+ Not even trying to atom-smash these into a single (convoluted, confused) model is discerning aspect of the framework, for sure. 
 
 ## Infinite Iteration
 

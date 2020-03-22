@@ -24,7 +24,7 @@ This combination gives way to the three components of FAST:
 These are not mere steps or phases: they are *components* in their own right. Each is wholly complementary and sets clear boundaries to the others. 
 This also allows them to leverage different and well-established disciplines: 
 
-* [Strategic Design] to reveal (latent resources and capabilities, and external trends and forces),
+* [Strategic Design] to reveal (latent resources and capabilities, and emergent trends and forces),
 * [Service Design] to position (a perspective with qualitative research and ideation techniques),
 * [Customer Development] to organise (solutions in search of a repeatable and scalable business).
 
@@ -32,7 +32,7 @@ This also allows them to leverage different and well-established disciplines:
 [Service Design]: https://en.wikipedia.org/wiki/Service_design
 [Customer Development]: https://en.wikipedia.org/wiki/Customer_development
 
- Not even trying to atom-smash these into a single (convoluted, confused) model is discerning aspect of the framework, for sure. 
+ Not even trying to atom-smash these into a single (convoluted, confused) model is a discerning aspect of the framework, for sure. 
 
 ## Infinite Iteration
 

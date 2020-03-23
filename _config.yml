@@ -49,9 +49,9 @@ author:
 # Add links to the sidebar.
 menu:
   - title:    Framework
-    url:      /docs/
-  - title:    Resources
-    url:      https://www.f-a.link/       
+    url:      /framework/
+  - title:    Progress
+    url:      /progress/      
   - title:    Contact
     url:      mailto:hello@futuring-architectures.com
 
@@ -68,11 +68,11 @@ menu:
 copyright:             Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 # Format of the permalinks
-permalink:             /blog/:categories/:year-:month-:day-:title/
+permalink:             /progress/:categories/:title_:year-:month-:day/
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
-paginate_path:         /blog/page-:num/
+paginate_path:         /progress/page-:num/
 
 
 # Customizaton
@@ -224,7 +224,7 @@ hydejack:
 
 collections:
   featured_categories:
-    permalink:         /blog/:name/
+    permalink:         /progress/:name/
     output:            true
 
   featured_tags:

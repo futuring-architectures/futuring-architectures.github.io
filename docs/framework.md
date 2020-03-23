@@ -3,7 +3,7 @@ title: Framework
 description: >
   An introduction to the FAST framework, the challenges it aims to address and the process it applies in doing so.
 hide_description: true
-permalink: /docs/
+permalink: /framework/
 ---
 
 Ecosystem innovation has all the makings of a [wicked problem](https://en.wikipedia.org/wiki/Wicked_problem). 

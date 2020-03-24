@@ -31,13 +31,13 @@ You can also dive into the action right away and pick up on one of the component
 
 ## Getting Real
 
-[Download]  FAST and set up a first high-energy, collaborative design session. Each component comes with full instructions, end-to-end examples and a practitioner's manual.
+[Download]  FAST and set up your first high-energy, collaborative design session. Each component comes with full instructions, end-to-end examples and a practitioner's manual.
 🔌 Batteries are included; just add a bit of elbow grease.   
 
 You're most welcome to contribute to the framework. 
 The FAST [Trello board] is open to your suggestions, comments and experiences. And join us on [Github] to help fix spelling and grammar errors, or help clarify and extend sections.
 
-[download]: https://www.f-a.link/
+[download]: /progress/releases/
 [trello board]: https://f-a.link/trello
 [github]: https://github.com/futuring-architectures/
 

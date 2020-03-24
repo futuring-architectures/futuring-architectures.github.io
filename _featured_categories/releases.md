@@ -3,5 +3,5 @@ layout: list
 title: Releases
 slug: release
 description: >
-  The chronological list of FAST releases.
+  All releases of FAST---big and small---in chronological order.
 ---

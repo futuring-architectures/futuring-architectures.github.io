@@ -16,11 +16,11 @@ Step by step and day by day.
 
 ## Getting Acquainted
 
-📖 Take a few minutes to read up on the [Framework]{:.heading.flip-title}, the components it provides and the process of applying these. 
-You can also dive into the action right away and pick up on one of the components directly:
+📖 Take a few minutes to read up on the [Framework]{:.heading.flip-title}, the toolkits it provides and the process of applying these. 
+You can also dive into the action right away and pick up on one of the toolkits directly:
  
 * [Reveal]{:.heading.flip-title} --- the ecosystem to design for
-* [Position]{:.heading.flip-title} --- your organisation in its ecosystem
+* [Position]{:.heading.flip-title} --- your platform in its ecosystem
 * [Organise]{:.heading.flip-title} --- the minimum viable platform experience
 {:.related-posts.faded}
 
@@ -31,8 +31,9 @@ You can also dive into the action right away and pick up on one of the component
 
 ## Getting Real
 
-[Download] any of the FAST components and set up your first high-energy, collaborative platform session. Each component comes with full instructions, end-to-end examples and a practitioner's manual.
-🔌 All batteries included; just add elbow grease.   
+💾 [Download] the FAST toolkits and set up your first high-energy, collaborative platform sessions.
+Each toolkit comes with step-by-step instructions, end-to-end examples and comprehensive practitioner's manual.
+All batteries 🔋 included; just add elbow grease.   
 
 You're most welcome to contribute to the framework. 
 The FAST [Trello board] is open to your suggestions, comments and experiences. And join us on [Github] to help fix spelling and grammar errors, or help clarify and extend sections.
@@ -46,5 +47,5 @@ The FAST [Trello board] is open to your suggestions, comments and experiences. A
 
 **F**uturing **A**rchitectures for **S**ustaining **T**ransitions.
 
-This emphasises the strategic intent and infinitely iterative nature of the framework. 
-🤭 It also works as a convenient adjective in many situations.
+This emphasises the strategic intent and [infinitely iterative](/framework/#infinite-iteration) nature of the framework. 
+It also works as a convenient adjective in many situations 🤭.

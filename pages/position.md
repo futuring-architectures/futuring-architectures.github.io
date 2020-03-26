@@ -1,18 +1,20 @@
 ---
-title: Position
+title: Position Toolkit
 description: >
-  Position your organisation in the ecosystem. Understand facilitating coordinated value exchanges and let the ecosystem leverage its true potential. Capture these statements in a platform model.
-hide_description: false
+  🛠 A toolkit for finding your platform's purpose and strategy.
+hide_description: true
 permalink: /framework/position/
 ---
-Designing a platform business model is somewhat oxymoronic. A designer cannot fully know nor control upfront what challenges will confront participants. The flow of events in response to these challenges are not planned in advance, but emerge from interactions with the ecosystem. 
+The application of 'design' to ecosystem innovation is somewhat of an oxymoron. The designer cannot know upfront of all challenges that will confront individual participants. The full flow of events in response to any of these challenges is likewise not planned in advance.
 
-In FAST, a platform model 🗺 captures *intended* outcomes and the platform's support for participants *converging* on these. It is a (dynamic) model and not a (static) plan: its explicit purpose is to describe the interplay between key platform aspects. 
+To this end, the toolkit is build around a platform model. It captures *intended* outcomes and the platform's support for participants *converging* on these. And it is a (dynamic 🚀) model and not a (static 🏔) plan: it describes the interplay between outcomes and support structures. 
 
-![Position Platform Model](../assets/img/pages/fast-platformmodel-nobg-tiny.png){:.lead data-width="600" data-height="398"}
+![Position Platform Model](../assets/img/pages/fast-platformmodel-tiny.png){:.lead data-width="600" data-height="398"}
 
-The model takes its core from the [Tools-Rules-Interaction-Experience](http://platformed.info/the-trie-framework-platforms/) framework---the benchmark for capturing platform mechanics. 
+The model takes its core from the well-established [Tools-Rules-Interaction-Experience](http://platformed.info/the-trie-framework-platforms/) framework. 
+The toolkit expands on this framework with **Frame** and **Challenge**. These capture the output from the [Reveal] toolkit and the input to the [Organise] toolkit, respectively. The latter addition also turns the model into a great tool for deciding on what, where and when to build and test next 🗓. 
 
-FAST expands on this framework with *Frame* and *Challenge* aspects. These help in setting clear and tangible definitions of both context and goal. They also turn the model into a great tool for deciding on what, where and when to build and test next.
+[Reveal]: reveal.md
+[Organise]: organise.md
 
-<a class="btn btn-primary" href="https://position.futuring-architectures.com">Read the Position Manual</a>
+<a class="btn btn-primary" href="https://f-a.link/pps">Download the Toolkit</a> <a class="btn btn-primary" href="https://position.futuring-architectures.com">Read the Online Manual</a>

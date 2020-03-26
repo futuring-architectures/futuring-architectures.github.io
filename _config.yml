@@ -203,9 +203,9 @@ hydejack:
     always:            false
 
     # Set to `true` to use the dark theme based on visitors' local time.
-    dynamic:           false
+    dynamic:           true
     sunrise:           6
-    sunset:            18
+    sunset:            20
 
     # Set to `true` to allow visitors to switch between light and dark mode.
     icon:              true

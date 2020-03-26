@@ -24,15 +24,15 @@ You can also dive into the action right away and pick up on one of the component
 * [Organise]{:.heading.flip-title} --- the minimum viable platform experience
 {:.related-posts.faded}
 
-[framework]: docs/framework.md
-[reveal]: https://reveal.futuring-architectures.com/
-[position]: https://position.futuring-architectures.com/
-[organise]: https://organise.futuring-architectures.com/
+[framework]: /framework/
+[reveal]: /framework/reveal/
+[position]: /framework/position/
+[organise]: /framework/organise/
 
 ## Getting Real
 
-[Download]  FAST and set up your first high-energy, collaborative design session. Each component comes with full instructions, end-to-end examples and a practitioner's manual.
-🔌 Batteries are included; just add a bit of elbow grease.   
+[Download] any of the FAST components and set up your first high-energy, collaborative platform session. Each component comes with full instructions, end-to-end examples and a practitioner's manual.
+🔌 All batteries included; just add elbow grease.   
 
 You're most welcome to contribute to the framework. 
 The FAST [Trello board] is open to your suggestions, comments and experiences. And join us on [Github] to help fix spelling and grammar errors, or help clarify and extend sections.

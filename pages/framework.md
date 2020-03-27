@@ -8,7 +8,7 @@ permalink: /framework/
 
 Ecosystem innovation has all the makings of a [wicked problem](https://en.wikipedia.org/wiki/Wicked_problem). 
 FAST draws from Design Thinking as a collaborative way of coping with such problems. *Thinking as a designer* implies immersion in a situation, building shared understanding and prototyping solutions. 
-This combination gives way to the three components of FAST:
+This combination gives way to the three tools of FAST:
 
 ![The FAST framework](../assets/img/pages/fast-framework-tiny.png){:data-width="600" data-height="398"}
 
@@ -21,7 +21,7 @@ This combination gives way to the three components of FAST:
 [position]: position.md
 [organise]: organise.md
 
-These are not mere steps or phases: they are *toolkits* in their own right. Each is wholly complementary and sets clear boundaries to the others. 
+These are not mere steps or phases: they are *tools* in their own right. Each is wholly complementary and sets clear boundaries to the others. 
 This also allows them to leverage different and well-established disciplines: 
 
 * [Strategic Design] to reveal (latent resources and capabilities, and emergent trends and forces),
@@ -32,7 +32,7 @@ This also allows them to leverage different and well-established disciplines:
 [Service Design]: https://en.wikipedia.org/wiki/Service_design
 [Customer Development]: https://en.wikipedia.org/wiki/Customer_development
 
- Not even trying to atom-smash these into a single (convoluted, confused) model is a discerning aspect of the framework, for sure. 
+ Not even trying to atom-smash these into a single (convoluted, confusing 🧬) model is a discerning aspect of the framework, for sure. 
 
 ## Infinite Iteration
 

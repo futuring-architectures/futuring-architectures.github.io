@@ -16,8 +16,8 @@ Step by step and day by day.
 
 ## Getting Acquainted
 
-📖 Take a few minutes to read up on the [Framework]{:.heading.flip-title}, the toolkits it provides and the process of applying these. 
-You can also dive into the action right away and pick up on one of the toolkits directly:
+📖 Take a few minutes to read up on the [Framework]{:.heading.flip-title}, the tools it provides and the process of applying these. 
+You can also dive into the action right away and pick up on one of the tools directly:
  
 * [Reveal]{:.heading.flip-title} --- the ecosystem to design for
 * [Position]{:.heading.flip-title} --- your platform in its ecosystem
@@ -31,8 +31,8 @@ You can also dive into the action right away and pick up on one of the toolkits 
 
 ## Getting Real
 
-💾 [Download] the FAST toolkits and set up your first high-energy, collaborative platform sessions.
-Each toolkit comes with step-by-step instructions, end-to-end examples and comprehensive practitioner's manual.
+💾 [Download] the FAST tools and set up your first high-energy, collaborative platform sessions.
+Each tool it comes with step-by-step instructions, end-to-end examples and comprehensive practitioner's manual.
 All batteries 🔋 included; just add elbow grease.   
 
 You're most welcome to contribute to the framework. 

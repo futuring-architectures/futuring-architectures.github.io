@@ -47,4 +47,8 @@ vendor/bundle
 _zip
 /stats.json
 
-#<removed>
+.bundle
+.sass-cache
+Gemfile.lock
+_site
+vendor

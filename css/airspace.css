@@ -97,7 +97,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Slider Start
 --*/
 #slider {
-  background: url("../img/slider/slider-bg-hex-tiny.png") no-repeat;
+  background: url("../img/fast_bg-hex_tiny.png") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
@@ -191,7 +191,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	call-to-action Start
 --*/
 #call-to-action {
-  background: url("../img/slider/slider-bg-hex-tiny.png") no-repeat;
+  background: url("../img/fast_bg-hex_tiny.png") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   padding: 70px 0px;

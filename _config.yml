@@ -18,8 +18,6 @@ title: Futuring Architecures
 subtitle: "A framework for ecosystem innovation and platform organisation"
 url: "futuring-architectures.github.io" 
 baseurl: ""
-cover: "/assets/cover.png"
-logo: "/assets/logo.png"
 
 # Build settings
 markdown: kramdown
